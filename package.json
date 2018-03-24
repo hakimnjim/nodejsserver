@@ -1,0 +1,32 @@
+{
+  "name": "gameservertest",
+  "version": "1.0.0",
+  "description": "this is a small project that my brother and I playing with, we are trying to build a multiusers game, Mahdi will be the one writing the server and Hakim will be the one writing the game, and let us see where we will take this thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimnjim/nodejsserver.git"
+  },
+  "keywords": [
+    "node",
+    "games",
+    "serever",
+    "socket.io",
+    "javascript",
+    "mulitplayer"
+  ],
+  "author": "Hakim and Mahdi Njim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakimnjim/nodejsserver/issues"
+  },
+  "homepage": "https://github.com/hakimnjim/nodejsserver#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "shortid": "^2.2.8",
+    "socket.io": "^2.0.4"
+  }
+}

@@ -1,1 +1,2 @@
 # nodejsserver
+this is a small project that my brother and I playing with, we are trying to build a multiusers game, Mahdi will be the one writing the server and Hakim will be the one writing the game, and let us see where we will take this thing
